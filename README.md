@@ -12,8 +12,12 @@
 - CSS3 – Used for styling, layouts, and responsiveness.
 - Flexbox & Grid – For creating modern, flexible, and responsive layouts.
 
-## Screenshot
-![Image Alt](https://github.com/Deepakchamola/Cotton_Weave/blob/5b5fdd2843dee232c6b6e74e6524788dddc3b5a0/Cotton_Weave.png)
+## Screenshots
+### Fullscreen
+<img src="https://github.com/Deepakchamola/Cotton_Weave/blob/5b5fdd2843dee232c6b6e74e6524788dddc3b5a0/Cotton_Weave.png" width="850" height="500"/>
+
+### Responsive
+<img src="https://github.com/Deepakchamola/Cotton_Weave/blob/a64c1206ed534c876c1559bdbaad975b75cce83b/Cotton_Weave-2.png" width="350" height="500"/>
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
