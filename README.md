@@ -6,7 +6,7 @@
 
 ## Description
 - This project demonstrates the basics of frontend web development using HTML and CSS. The goal is to create a static webpage that showcases key design and layout principles, with a focus on responsive design and basic styling.
-- 
+
 ## Tech Stack
 - HTML5 – Used for the structure of the website.
 - CSS3 – Used for styling, layouts, and responsiveness.
