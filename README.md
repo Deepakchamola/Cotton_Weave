@@ -1,4 +1,4 @@
-# Cotton_Weave
+# Cotton_Weave Website
 ## Frontend Basics
 - HTML
 - CSS
@@ -12,12 +12,11 @@
 - CSS3 – Used for styling, layouts, and responsiveness.
 - Flexbox & Grid – For creating modern, flexible, and responsive layouts.
 
-## Screenshots
-### Fullscreen
+## Preview
 <img src="https://github.com/Deepakchamola/Cotton_Weave/blob/5b5fdd2843dee232c6b6e74e6524788dddc3b5a0/Cotton_Weave.png" width="850" height="500"/>
 
-### Responsive
-<img src="https://github.com/Deepakchamola/Cotton_Weave/blob/dcf0ed9d54335baaa355b6634f290b3b8adb65e9/Cotton-Weave-2.png" width="350" height="500"/>
+## Demo
+- Watch the webite ive [View Live](https://deepakchamola.github.io/Cotton_Weave/)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
