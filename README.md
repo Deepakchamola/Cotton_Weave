@@ -15,8 +15,8 @@
 ## Preview
 <img src="https://github.com/Deepakchamola/Cotton_Weave/blob/5b5fdd2843dee232c6b6e74e6524788dddc3b5a0/Cotton_Weave.png" width="850" height="500"/>
 
-## Demo
-- Watch the webite ive [View Live](https://deepakchamola.github.io/Cotton_Weave/)
+## Live Demo
+- Explore the live demo of the Cotton_Weave Website: [View Live](https://deepakchamola.github.io/Cotton_Weave/)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
